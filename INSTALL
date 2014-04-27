@@ -1,0 +1,9 @@
+Building SuperHashToken
+
+See doc/readme-qt.rst for instructions on building SuperHashToken QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SuperHashToken.
+
+See doc/build-*.txt for instructions on building SuperHashTokend,
+the intended-for-services, no-graphical-interface, reference
+implementation of SuperHashToken.
